@@ -2,7 +2,7 @@ import React from 'react'
 import Link from 'next/link'
 const ajay1 = () => {
   return (
-    <div>This is Ajay 1 page!!
+    <div>This is Ajay 1 
       <ul>
       <Link href='/home/about'><li>About</li></Link>
       <Link href='/home'><li> Home </li></Link>
